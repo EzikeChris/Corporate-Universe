@@ -1,4 +1,3 @@
-# bodadmin
 
 ## Project setup
 ```
